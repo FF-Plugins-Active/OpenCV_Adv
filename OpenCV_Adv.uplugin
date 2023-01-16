@@ -15,19 +15,13 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"SupportedTargetPlatforms": [
-		"Win64",
+		"Win64"
 	],
 	"Modules": [
 		{
 			"Name": "OpenCV_Adv",
 			"Type": "Runtime",
 			"LoadingPhase": "PreLoadingScreen"
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "OpenCV",
-			"Enabled": false
 		}
 	]
 }
