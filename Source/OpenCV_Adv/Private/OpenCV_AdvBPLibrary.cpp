@@ -4,7 +4,6 @@
 #include "OpenCV_Adv.h"
 
 // UE Includes.
-#include "Engine/Texture2D.h"
 #include "Kismet/KismetRenderingLibrary.h"
 
 THIRD_PARTY_INCLUDES_START
