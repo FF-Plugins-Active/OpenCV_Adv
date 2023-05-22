@@ -58,4 +58,3 @@ bool UOpenCV_AdvBPLibrary::OpenCV_QR_DetectAndDecode(FString& OutQrDecoded, FStr
 		return false;
 	}
 }
-
